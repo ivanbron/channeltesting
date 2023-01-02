@@ -17,7 +17,6 @@ STRUCT BENCHMARK RESULT USING FUNCTIONS:
 
 Benchmark_TestSNochannel-10    	41617894	        24.81 ns/op
 
-
 ====================================================================
 
 POINTER TO STRUCT BENCHMARK RESULT USING CHANNELS:
@@ -25,8 +24,6 @@ POINTER TO STRUCT BENCHMARK RESULT USING CHANNELS:
 Benchmark_TestPChannel-10    	 2837682	       418.4 ns/op
 
 STRUCT BENCHMARK RESULT USING FUNCTIONS:
-
-Benchmark_TestSNochannel-10    	41617894	        24.81 ns/op
 
 Benchmark_TestPNochannel-10    	29538188	        34.24 ns/op
 
